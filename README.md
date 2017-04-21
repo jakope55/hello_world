@@ -1,2 +1,2 @@
 # hello_world
-test
+This is just a test message to create some content.
